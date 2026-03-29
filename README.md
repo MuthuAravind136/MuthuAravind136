@@ -31,6 +31,7 @@ I'm a passionate **Full Stack Developer** dedicated to building high-performance
 ### 🐍 Contribution Snake
 <div align="center">
   <img src="https://raw.githubusercontent.com/MuthuAravind136/MuthuAravind136/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <p><i>Note: The snake will appear here once you push and the GitHub Action runs!</i></p>
 </div>
 
 ---
@@ -38,7 +39,7 @@ I'm a passionate **Full Stack Developer** dedicated to building high-performance
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MuthuAravind136&show_icons=true&theme=tokyonight&count_private=true" alt="Muthu's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuthuAravind136&layout=compact&theme=tokyonight&hide_progress=true" alt="Muthu's Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MuthuAravind136&layout=compact&theme=tokyonight&hide_progress=true" alt="Muthu's Top Languages" height="180px" />
 </p>
 
 ---
@@ -76,8 +77,5 @@ I'm a passionate **Full Stack Developer** dedicated to building high-performance
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=MuthuAravind136&color=blue" alt="Profile Views" />
 </div>
-
-</div>
-
 
 </div>
