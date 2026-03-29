@@ -3,7 +3,11 @@
 ![Portfolio Hero](./public/images/hero_banner.png)
 
 # 🚀 Hi there, I'm Muthu Aravind!
-### Full Stack Developer | UI/UX Enthusiast | Creative Problem Solver
+### Full Stack Developer | UI/UX Enthusiast | Anime Lover
+
+<p align="center">
+  <img src="./public/images/mascot.png" width="200" alt="Mascot" />
+</p>
 
 <p align="center">
   <a href="https://github.com/MuthuAravind136">
@@ -20,7 +24,14 @@
 ---
 
 ### 💫 About Me
-I'm a passionate **Full Stack Developer** dedicated to building high-performance, visually stunning web applications. I love exploring new technologies and pushing the boundaries of what's possible on the web. My focus lies in creating seamless user experiences with modern tech stacks.
+I'm a passionate **Full Stack Developer** dedicated to building high-performance, visually stunning web applications. I love exploring new technologies and pushing the boundaries of what's possible on the web. When I'm not coding, you'll probably find me watching anime or exploring futuristic design trends.
+
+---
+
+### 🐍 Contribution Snake
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MuthuAravind136/MuthuAravind136/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
@@ -48,6 +59,7 @@ I'm a passionate **Full Stack Developer** dedicated to building high-performance
 
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
+| **Cinematic Portfolio** | Modern, high-performance developer portfolio with cinematic effects. | Next.js, React, Framer Motion | [View Repository](https://github.com/MuthuAravind136/portfolio) |
 | **YouTube Clone** | High-fidelity clone with real-time search & video playback. | Next.js, Tailwind v4, React Player | [View Repository](https://github.com/MuthuAravind136/youtube-clone) |
 | **Smart Daily Task Manager** | MERN stack application with JWT auth and task CRUD. | React, Node, Express, MongoDB | [View Repository](https://github.com/MuthuAravind136/smart-daily-task-manager) |
 | **Maison** | Premium minimalist e-commerce landing page with dark mode. | HTML5, Modern CSS3, Vanilla JS | [View Repository](https://github.com/MuthuAravind136/maison) |
@@ -64,5 +76,8 @@ I'm a passionate **Full Stack Developer** dedicated to building high-performance
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=MuthuAravind136&color=blue" alt="Profile Views" />
 </div>
+
+</div>
+
 
 </div>
