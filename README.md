@@ -34,15 +34,7 @@ I'm a passionate **Full Stack Developer** dedicated to building high-performance
   <p><i>Note: The snake will appear here once you push and the GitHub Action runs!</i></p>
 </div>
 
----
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=MuthuAravind136&show_icons=true&theme=radical" alt="Muthu's GitHub Stats" height="180px" />
-  <img src="https://github-stats-alpha.vercel.app/api/top-langs?username=MuthuAravind136&layout=compact&theme=radical" alt="Muthu's Top Languages" height="180px" />
-</p>
-
----
 
 ### 🛠️ Tech Stack
 <p align="center">
