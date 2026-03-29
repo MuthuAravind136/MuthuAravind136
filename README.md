@@ -38,8 +38,8 @@ I'm a passionate **Full Stack Developer** dedicated to building high-performance
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuthuAravind136&show_icons=true&theme=radical" alt="Muthu's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MuthuAravind136&layout=compact&theme=radical" alt="Muthu's Top Languages" height="180px" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=MuthuAravind136&show_icons=true&theme=radical" alt="Muthu's GitHub Stats" height="180px" />
+  <img src="https://github-stats-alpha.vercel.app/api/top-langs?username=MuthuAravind136&layout=compact&theme=radical" alt="Muthu's Top Languages" height="180px" />
 </p>
 
 ---
