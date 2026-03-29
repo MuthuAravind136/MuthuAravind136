@@ -56,9 +56,9 @@ I'm a passionate **Full Stack Developer** dedicated to building high-performance
 ---
 
 ### 📫 Connect with Me
-- 📧 Email: [muthuaravind@example.com](mailto:muthuaravind@example.com)
-- 💼 LinkedIn: [Muthu Aravind](https://linkedin.com/in/muthuaravind)
-- 🐦 Twitter: [@muthuaravind](https://twitter.com/muthuaravind)
+- 📧 Email: [muthuaravindngl@gmail.com](mailto:muthuaravindngl@gmail.com)
+- 💼 LinkedIn: [Muthu Aravind](www.linkedin.com/in/muthu-aravind-b-848114292)
+
 
 <br />
 
