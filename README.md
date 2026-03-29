@@ -28,14 +28,11 @@ I'm a passionate **Full Stack Developer** dedicated to building high-performance
 
 ---
 
-### 🐍 Contribution Snake
 <div align="center">
   <img src="https://raw.githubusercontent.com/MuthuAravind136/MuthuAravind136/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-  <p><i>Note: The snake will appear here once you push and the GitHub Action runs!</i></p>
 </div>
 
-
-
+---
 ### 🛠️ Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
