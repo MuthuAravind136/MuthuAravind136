@@ -13,10 +13,10 @@
   <a href="https://github.com/MuthuAravind136">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:muthuaravind@example.com">
+  <a href="mailto:muthuaravindngl@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/muthuaravind">
+  <a href="https://www.linkedin.com/in/muthu-aravind-b-848114292">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -57,7 +57,7 @@ I'm a passionate **Full Stack Developer** dedicated to building high-performance
 
 ### 📫 Connect with Me
 - 📧 Email: [muthuaravindngl@gmail.com](mailto:muthuaravindngl@gmail.com)
-- 💼 LinkedIn: [Muthu Aravind](www.linkedin.com/in/muthu-aravind-b-848114292)
+- 💼 LinkedIn: [Muthu Aravind](https://www.linkedin.com/in/muthu-aravind-b-848114292)
 
 
 <br />
