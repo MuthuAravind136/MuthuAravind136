@@ -3,7 +3,7 @@
 ![Portfolio Hero](./public/images/hero_banner.png)
 
 # 🚀 Hi there, I'm Muthu Aravind!
-### Full Stack Developer | UI/UX Enthusiast | Anime Lover
+### Full Stack Developer 
 
 <p align="center">
   <img src="./public/images/mascot.png" width="200" alt="Mascot" />
@@ -51,7 +51,6 @@ I'm a passionate **Full Stack Developer** dedicated to building high-performance
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
 ---
